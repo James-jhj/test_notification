@@ -1,0 +1,10 @@
+flet
+flet-audio
+lunardate
+requests
+mutagen
+zhdate
+openpyxl
+chinese-calendar
+pyjnius
+android-notify
